@@ -112,7 +112,7 @@ export default function Home() {
             />
           </div>
           <div className="eyebrow">जन-प्रतिनिधित्व • डिजिटल समर्थन</div>
-          <div className="brand">जनता की न्याय</div>
+          <div className="brand">जनता को न्याय</div>
           <div className="tag">जनता की भाषा में</div>
           <div className="sub">
             न्यायिक प्रक्रिया और न्याय से संबंधित महत्वपूर्ण जानकारी को आम
