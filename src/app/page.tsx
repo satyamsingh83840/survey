@@ -137,10 +137,7 @@ export default function Home() {
               </div>
               <span className="pill">Live Count</span>
             </div>
-            <p className="footer">
-              यह संख्या MongoDB में सफलतापूर्वक सेव हुए सभी submissions की कुल
-              संख्या है।
-            </p>
+            <p className="footer"> सभी submissions की कुल संख्या है </p>
           </section>
           <section className="card">
             <h2>अपना समर्थन दर्ज करें</h2>
