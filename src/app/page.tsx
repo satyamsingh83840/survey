@@ -267,15 +267,6 @@ export default function Home() {
             )}
           </section>
         </div>
-        <div className="wrap card privacy">
-          <h2>गोपनीयता एवं उपयोग सूचना</h2>
-          <p className="lead">
-            आपके द्वारा दी गई जानकारी इस जन-समर्थन को दर्ज करने और कुल संख्या
-            दिखाने के लिए MongoDB में सेव की जाती है। केवल आवश्यक विवरण साझा
-            करें। Live deployment से पहले privacy notice, data retention अवधि और
-            access controls तय करें।
-          </p>
-        </div>
       </main>
     </div>
   );
